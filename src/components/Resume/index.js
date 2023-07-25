@@ -1,15 +1,16 @@
-import React from 'react'
-import './style.css'
-import Button from 'react-bootstrap/Button'
-import Card from 'react-boostrap/Card'
-import Letter from './assets/letter.png' //change this to something
+import React from 'react';
+import './style.css';
+import Button from 'react-bootstrap/Button';
+// import Card from 'react-boostrap/Card';
+// import Letter from './assets/letter.png' //change this to something
 
-import Resume from './rob-stowe-resume.pdf'
+// import Resume from './rob-stowe-resume.pdf'
 
 function Resume() {
     return (
         <div className='container'>
-            <Card>
+            <p>Click below to download my resume</p>
+            {/* <Card>
                 <Card.Img variant='top' src={Letter} />
                 <Card.Body>
                     <Card.Title>Resume</Card.Title>
@@ -18,7 +19,7 @@ function Resume() {
                     </Card.Text>
                     <Button href={Resume} download="rob-stowe-resume.pdf" variant="dark">Rob's Resume</Button>
                 </Card.Body>
-            </Card>
+            </Card> */}
         </div>
     )
 

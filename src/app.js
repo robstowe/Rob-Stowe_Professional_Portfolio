@@ -1,9 +1,10 @@
 // import React from 'react'
 
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-// import Contact from './components/Contact/';
+import Contact from './components/Contact/';
 import About from './components/About/';
-// import Resume from './components/Resume/';
+import Resume from './components/Resume/';
+import Header from './components/Header';
 import Home from './components/Home/';
 import Nav from './components/Nav/index';
 import Projects from './components/Projects/';
@@ -16,6 +17,7 @@ export default function App() {
     return (
         <div>
                 <Router>
+                <Header/>    
                 <Nav />
                 <Routes>
                     <Route
@@ -27,12 +29,12 @@ export default function App() {
                     <Route
                         path="/projects"
                         element={<Projects />}/>
-                    {/* <Route
+                    <Route
                         path="/contact"
                         element={<Contact />}/>
                     <Route
                         path="/resume"
-                        element={<Resume />}/> */}
+                        element={<Resume />}/>
                 </Routes>
                 <Footer />
                 </Router>

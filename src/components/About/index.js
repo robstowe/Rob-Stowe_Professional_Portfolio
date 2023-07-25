@@ -9,9 +9,9 @@ export default function About() {
                 <h1>Hi, my name's Rob Stowe!</h1>
                 <p>A little bit about myself..</p>
             </div>
-            <div className="image-container">
-                <img src={AboutPic} alt="Rob Stowe img"></img>
-            </div>
+            {/* <div className="image-container">
+                <img src={} alt="Rob Stowe img"></img>
+            </div> */}
             <div className="about">
                 <p>I graduated from Fresno State University with a Mass Communications & Journalism degree with an emphasis on Advertising and marketing.</p>
                 <p>I began my career working for one of the major ABC television News Networks joining the sales team. From there I then joined Amazon/Twitch and was a part of their Sales and Advertising team, working with key brands such as Warner Brothers, HBO, PlayStation, Activision, and others.</p>
