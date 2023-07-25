@@ -1,0 +1,22 @@
+.navlink{
+    /* display: flex; */
+    /* flex-direction: row; */
+    text-align: end;
+    /* margin-top: 0; */
+    text-decoration: none;
+    color:green;
+    font-size: 1rem;
+    padding: 5px; 
+}
+
+.parent {
+    display: flex;
+    justify-content: flex-end;
+    background-color: bisque;
+}
+
+.name {
+    display: flex;
+    justify-content: start;
+ 
+}

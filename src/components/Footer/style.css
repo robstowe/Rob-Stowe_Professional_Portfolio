@@ -1,0 +1,38 @@
+.footer-container {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 15px 0;
+    height: auto;
+}
+
+.footer-content {
+    padding: 0 15px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.icon-content {
+    text-align: center;
+}
+
+.icon-content a {
+    margin-left: 30px;
+}
+
+.icon-content a svg{
+    font-size: 30px;
+    color: white;
+}
+
+.icon-content a svg:hover {
+    transform: scale (1.2);
+    opacity: 0.7;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+footer {
+    height: auto;
+}
