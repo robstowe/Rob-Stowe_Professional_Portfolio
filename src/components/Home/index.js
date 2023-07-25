@@ -1,14 +1,31 @@
 import React from 'react';
 import './style.css';
+import Typewriter from 'typewriter-effect';
+import { Container } from 'react-bootstrap';
 
 
 export default function Home() {
     return (
-        <div className ="home">
-            <div className="content">
-                <h1>Rob Stowe</h1>
-                <p>nfkm as nfak sjnnfas</p>
+        <div className = "content row">
+            <Container className="d-flex justify-content-center align-items-center">
+            <div className="text-center typewriter">
+                <Typewriter 
+                onInit={(typewriter) => {
+                    typewriter
+                    .changeDelay(50)
+                    .typeString("Hey! I'm Rob.")
+                    .pauseFor(1000)
+
+                    .typeString("I'm a Full Stack Developer and recent graduate from North Western University")
+                    .pauseFor(1000)
+
+                    .typeString("Please, take a look around my portfolio!")
+                    .pauseFor(1000)
+
+                }}/>
             </div>
+            </Container>
         </div>
-    )
-}
+    );
+};
+

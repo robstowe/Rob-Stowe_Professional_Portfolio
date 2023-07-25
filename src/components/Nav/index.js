@@ -1,7 +1,6 @@
 import React from 'react';
 import './style.css';
-import Container from 'react-bootstrap/Container';
-import {Button, Navbar} from 'react-bootstrap';
+
 
 
 function daNavBar() {
