@@ -1,0 +1,15 @@
+.projects {
+    color: #333258 !important;
+    text-decoration: none !important;
+    margin: 10%;
+}
+
+.portfolio-box-caption{
+    color: #333258 !important;
+    text-decoration: none !important;
+    margin-bottom: 10px;
+}
+
+.project-name {
+    margin-bottom: 15%;
+}
