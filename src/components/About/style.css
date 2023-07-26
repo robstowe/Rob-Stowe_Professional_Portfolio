@@ -1,14 +1,19 @@
 .text {
     color: #333258;
-    max-width: fit-content;
+    /* max-width: fit-content; */
     
     /* margin-top: 5%; */
 }
-
+.text{
+    text-align: left;
+    font-size: 20px;
+    padding-bottom: 10%;
+    
+}
 .bob {
     float: left; /* Float the image to the left side */
     /* margin-left: 5%; Add some space between the image and text */
-    padding: 10px;
+    /* padding: 10px; */
     border-radius: 15%;
     width: 200px;
     height: auto;
