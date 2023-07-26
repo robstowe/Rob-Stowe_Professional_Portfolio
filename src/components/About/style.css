@@ -1,7 +1,22 @@
-.left {
+.text {
     color: #333258;
     max-width: fit-content;
-    margin-left: 15%;
-    margin-right: 15%;
-    margin-top: 5%;
+    
+    /* margin-top: 5%; */
+}
+
+.bob {
+    float: left; /* Float the image to the left side */
+    /* margin-left: 5%; Add some space between the image and text */
+    padding: 10px;
+    border-radius: 15%;
+    width: 200px;
+    height: auto;
+    object-fit: contain;
+}
+
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
 }
