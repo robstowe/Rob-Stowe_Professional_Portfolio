@@ -1,5 +1,6 @@
 .mb-3{
     color: #333258 !important;
+    
 }
 
 .custom-btn {
@@ -7,3 +8,9 @@
     /* Add other custom styles here if needed */
     outline: none !important;
   }
+
+  .custom-btn:hover {
+    background-color: #F36958 !important; /* Change this to the desired hover background color */
+    color: white !important; /* Change this to the desired hover text color */
+  }
+

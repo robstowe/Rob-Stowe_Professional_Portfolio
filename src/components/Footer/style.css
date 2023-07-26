@@ -31,13 +31,30 @@
 }
 
 .icon-content a svg:hover {
-    transform: scale (1.2);
-    opacity: 0.7;
-    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    transform: scale(1.2);
+    opacity: 1;
     background-color: #333258 !important;
+    color: white;
 }
 
 footer {
     height: auto;
     background-color: #333258 !important;
+}
+
+.footer-container {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #333258 !important;
+    color: white;
+    padding: 15px 0;
+    height: auto;
+}
+
+/* Add these styles to fix the footer positioning */
+@media (max-height: 700px) {
+    .footer-container {
+        position: relative; /* Change to relative position when screen height is small */
+    }
 }

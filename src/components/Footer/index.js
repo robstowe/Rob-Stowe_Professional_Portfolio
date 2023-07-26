@@ -10,13 +10,13 @@ export default function Footer(){
         <footer className="footer-container">
             <div className="footer-container">
                 <div className="icon-content">
-                    <a href="https://www.linkedin.com/in/rob-stowe/">
+                    <a href="https://www.linkedin.com/in/rob-stowe/" target="blank">
                         <Linkedin />
                     </a>
                     <a href="mailto:robstowe94@gmail.com">
                         <Envelope/>
                     </a>
-                    <a href="https://github.com/robstowe" target="_blank">
+                    <a href="https://github.com/robstowe" target="blank">
                         <Github />
                     </a>
                 </div>
