@@ -1,8 +1,6 @@
 .text {
     color: #333258;
-    /* max-width: fit-content; */
-    
-    /* margin-top: 5%; */
+
 }
 .text{
     text-align: left;
@@ -24,4 +22,8 @@
     content: "";
     display: table;
     clear: both;
+}
+
+.row {
+    padding-top: 5%;
 }
