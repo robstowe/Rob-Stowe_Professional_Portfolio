@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Form, Button, Container, Row, Col } from 'react-bootstrap';
+import './style.css'
 
 export default function Contact() {
     const [validationError, setValidationError] = useState('');
@@ -106,7 +107,7 @@ export default function Contact() {
                                 {validationError}
                             </Form.Control.Feedback>
                         </Form.Group>
-                        <Button type='submit'>Submit Message</Button>
+                        <Button type='submit' className='custom-btn'>Submit Message</Button>
                     </Form>
                 </Col>
             </Row>

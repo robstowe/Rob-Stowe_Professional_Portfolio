@@ -1,0 +1,15 @@
+.container {
+    color: #333258 ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+}
+
+.custom-btn {
+    background-color: #333258 !important; /* Replace #FF0000 with your desired hex color code */
+    /* Add other custom styles here if needed */
+    outline: none !important;
+  }

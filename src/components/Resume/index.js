@@ -1,8 +1,7 @@
 import React from 'react';
 import './style.css';
-import Button from 'react-bootstrap/Button';
-// import Card from 'react-boostrap/Card';
-// import Letter from './assets/letter.png' //change this to something
+import { Form, Button, Container, Row, Col } from 'react-bootstrap';
+import Hold from './assets/pleasehold.jpg' //change this to something
 
 // import Resume from './rob-stowe-resume.pdf'
 
@@ -10,6 +9,7 @@ function Resume() {
     return (
         <div className='container'>
             <p>Click below to download my resume</p>
+            <Button href={Hold} download="Resume" className='custom-btn'>Rob's Resume</Button>
             {/* <Card>
                 <Card.Img variant='top' src={Letter} />
                 <Card.Body>

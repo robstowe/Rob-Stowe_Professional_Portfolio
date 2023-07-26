@@ -1,0 +1,9 @@
+.mb-3{
+    color: #333258 !important;
+}
+
+.custom-btn {
+    background-color: #333258 !important; /* Replace #FF0000 with your desired hex color code */
+    /* Add other custom styles here if needed */
+    outline: none !important;
+  }

@@ -13,11 +13,11 @@ export default function Home() {
                 onInit={(typewriter) => {
                     typewriter
                     .changeDelay(50)
-                    .typeString("Hey! I'm Rob. ")
+                    .typeString("Hey! I'm Rob. <br>")
                     .pauseFor(1000)
-                    .typeString("<br>I'm a Full Stack Developer and recent graduate from North Western University. ")
+                    .typeString("I am a Full Stack Developer and recent graduate from North Western University. <br>")
                     .pauseFor(1000)
-                    .typeString("<br>Please, take a look around my portfolio...")
+                    .typeString("Take a look around and see some examples of my work.")
                     .pauseFor(1000)
                     .start();
                 }}/>
