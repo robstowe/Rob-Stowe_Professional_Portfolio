@@ -17,6 +17,8 @@ export default function Home() {
                     .pauseFor(1000)
                     .typeString("I am a Full Stack Developer and recent graduate from North Western University. <br>")
                     .pauseFor(1000)
+                    // .typeString("Most recently I worked at Amazon/Twitch as a part of their Ad Sales team managing Entertainment and Gaming accounts. <br>")
+                    // .pauseFor(1000)
                     .typeString("Take a look around and see some examples of my work.")
                     .pauseFor(1000)
                     .start();
