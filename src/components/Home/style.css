@@ -1,40 +1,17 @@
-/* * {
-    margin: 0;
-    padding: 0;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    
+.text-center {
+    text-align: center;
+    /* margin-top: 0; */
+    text-decoration: none;
+    color:#333258;
+    font-size: 2rem;
+    /* padding: 5px;  */
+    padding-right: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+    background-color: #F3F3F3;;
 }
-
-.home {
-    width: 100%;
-    height: 100vh;
+.content-row {
+    background-color: #F3F3F3;;
 }
-
-video {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-}
-
-.content {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    color: rgb(200, 200, 200);
-    font-style: italic;
-    font-size: 75px;
-}
-
-.overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0,0,0,.3);
-} */

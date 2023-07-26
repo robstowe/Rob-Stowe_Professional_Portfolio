@@ -1,10 +1,15 @@
+* {
+    background-color: #F3F3F3;
+}
+
 #header{
     height: auto;
     background-color: #F3F3F3;
 }
 
 img {
-    width: 100%;
+    max-width: 100%;
     height: auto;
     background-color: #F3F3F3;
+    size: 75%;
 }
