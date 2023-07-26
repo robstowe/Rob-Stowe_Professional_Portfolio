@@ -16,7 +16,6 @@ export default function App() {
     return (
         <div>
                 <Router>
-
                 <Nav />
                 <Routes>
                     <Route
