@@ -9,9 +9,9 @@ function daNavBar() {
         <div>
 
             <nav className="parent">
-                <navbar href='/'>
-                    <img src={Bob} alt="Rob Stowe logo" className="navbar-logo" />
-                </navbar>
+                <a href='/'>
+                    <img src={Bob} href='/' alt="Rob Stowe logo" className="navbar-logo" />
+                </a>
                 <a href='/About' className="navlink" variant='link'>About</a>
                 <a href='/Projects' className="navlink" variant='link'>Projects</a>
                 <a href='/Resume' className="navlink" variant='link'>Resume</a>
