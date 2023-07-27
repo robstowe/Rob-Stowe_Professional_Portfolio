@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.4da62354.css",
-    "main.js": "/static/js/main.677b6b43.js",
+    "main.css": "/static/css/main.89486280.css",
+    "main.js": "/static/js/main.ca40addc.js",
+    "static/media/beach.jpg": "/static/media/beach.aadc4c9d95d3b8d3c2c4.jpg",
+    "static/media/beach-zoom.jpg": "/static/media/beach-zoom.f1569817a8dce635f343.jpg",
+    "static/media/headshot.jpg": "/static/media/headshot.5e7530b1ec5076ab9f66.jpg",
+    "static/media/pleasehold.jpg": "/static/media/pleasehold.832d05c455fe8453b41a.jpg",
+    "static/media/texteditor.png": "/static/media/texteditor.b1ea617dcf1631e5c90b.png",
+    "static/media/robstowe.png": "/static/media/robstowe.c1c9676bcdc1228c70bb.png",
     "index.html": "/index.html",
-    "main.4da62354.css.map": "/static/css/main.4da62354.css.map",
-    "main.677b6b43.js.map": "/static/js/main.677b6b43.js.map"
+    "main.89486280.css.map": "/static/css/main.89486280.css.map",
+    "main.ca40addc.js.map": "/static/js/main.ca40addc.js.map"
   },
   "entrypoints": [
-    "static/css/main.4da62354.css",
-    "static/js/main.677b6b43.js"
+    "static/css/main.89486280.css",
+    "static/js/main.ca40addc.js"
   ]
 }
