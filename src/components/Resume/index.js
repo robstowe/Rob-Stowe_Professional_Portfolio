@@ -1,6 +1,6 @@
 import React from 'react';
 import './style.css';
-import { Form, Button, Container, Row, Col } from 'react-bootstrap';
+import  Button  from 'react-bootstrap/Button';
 import Hold from './assets/pleasehold.jpg' //change this to something
 
 // import Resume from './rob-stowe-resume.pdf'

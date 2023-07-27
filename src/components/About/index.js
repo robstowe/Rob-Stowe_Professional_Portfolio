@@ -1,6 +1,4 @@
 import React from 'react';
-import Headshot from './assets/headshot.jpg'
-import Beach from './assets/beach.jpg'
 import {Container} from 'react-bootstrap';
 import Better from './assets/beach-zoom.jpg'
 

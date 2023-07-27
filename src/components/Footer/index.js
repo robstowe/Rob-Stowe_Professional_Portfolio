@@ -1,7 +1,5 @@
 import React from 'react';
 import './style.css';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons'
 import { Github, Envelope, Linkedin } from 'react-bootstrap-icons'
 
 
