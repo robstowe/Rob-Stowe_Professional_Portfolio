@@ -15,7 +15,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 export default function App() {
     return (
         <div>
-                <Router>
+                <Router basename={`/${process.env.PUBLIC_URL}`}>
                 <Nav />
                 <Routes>
                     <Route
