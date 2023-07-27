@@ -1,12 +1,12 @@
 // import React from 'react'
 
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Contact from './components/Contact/';
-import About from './components/About/';
-import Resume from './components/Resume/';
-import Home from './components/Home/';
+import Contact from './components/Contact';
+import About from './components/About';
+import Resume from './components/Resume';
+import Home from './components/Home';
 import Nav from './components/Nav/index';
-import Projects from './components/Projects/';
+import Projects from './components/Projects';
 import Footer from './components/Footer/index'
 
 import 'bootstrap/dist/css/bootstrap.min.css'
