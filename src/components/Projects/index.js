@@ -15,8 +15,8 @@ function Projects() {
                         <Card.Body>
                             <Card.Title>{title}</Card.Title>
                             <Card.Text>{desc}</Card.Text>
-                            <Card.Link href={repoLink} target="blank"><Github size={36}/> </Card.Link>
-                            <Card.Link href={liveLink} target="blank"><BrowserChrome size={36}/> </Card.Link>
+                            <Card.Link href={repoLink} target="blank"><Github size={36}/></Card.Link>
+                            <Card.Link href={liveLink} target="blank"><BrowserChrome size={36}/></Card.Link>
                         </Card.Body>
                     </Card>
                     </Col>

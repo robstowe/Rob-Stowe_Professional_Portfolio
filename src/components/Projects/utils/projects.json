@@ -24,21 +24,21 @@
         "title":"Employee Manager ",
         "desc": "A CLI Application to monitor, manage, and update employee info",
         "image": "employee",
-        "repoLink": "https://github.com/robstowe/PWA_Text_editor",
+        "repoLink": "https://github.com/robstowe/Employee_Tracker",
         "liveLink": ""
     },
     {
-        "title":"Thing ",
-        "desc": "A PWA text editor that lives within your browser",
-        "image": "texteditor",
-        "repoLink": "https://github.com/robstowe/PWA_Text_editor",
-        "liveLink": "https://evening-earth-91896-4adc1232cc95.herokuapp.com/"
+        "title":"Social Network API",
+        "desc": "A backend social media API that tracks and stores user data and info",
+        "image": "social",
+        "repoLink": "https://github.com/robstowe/Social_Network_API",
+        "liveLink": ""
     },
     {
-        "title":"Thing ",
-        "desc": "A PWA text editor that lives within your browser",
-        "image": "texteditor",
-        "repoLink": "https://github.com/robstowe/PWA_Text_editor",
-        "liveLink": "https://evening-earth-91896-4adc1232cc95.herokuapp.com/"
+        "title":"Note Taker",
+        "desc": "A local note taker to help users stay on track of their tasks",
+        "image": "note",
+        "repoLink": "https://github.com/robstowe/Note-Taker",
+        "liveLink": "https://radiant-reef-51786-e8f4a6e9c291.herokuapp.com/"
     }
 ]
