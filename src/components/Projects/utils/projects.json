@@ -21,11 +21,11 @@
         "liveLink": "https://robstowe.github.io/Weather-Dashboard/"
     },
     {
-        "title":"Thing ",
-        "desc": "A PWA text editor that lives within your browser",
-        "image": "texteditor",
+        "title":"Employee Manager ",
+        "desc": "A CLI Application to monitor, manage, and update employee info",
+        "image": "employee",
         "repoLink": "https://github.com/robstowe/PWA_Text_editor",
-        "liveLink": "https://evening-earth-91896-4adc1232cc95.herokuapp.com/"
+        "liveLink": ""
     },
     {
         "title":"Thing ",
