@@ -78,7 +78,7 @@ export default function Contact() {
                             className="mb-3"
                             style={{ fontSize: '25px' }}
                             controlId="exampleForm.ControlInput1">
-                            <Form.Label>What's your name?</Form.Label>
+                            <Form.Label>What's your email?</Form.Label>
                             <Form.Control
                                 type="email"
                                 placeholder="blank@mail.com"

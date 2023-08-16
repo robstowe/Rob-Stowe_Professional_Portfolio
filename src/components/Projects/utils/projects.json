@@ -1,6 +1,41 @@
 [
     {
-        "title":"Browser Text Editor",
+        "title":"FINTRACKR",
+        "desc": "An online budget tracker to help you manage your monthly expenses",
+        "image": "fintrackr",
+        "repoLink": "https://github.com/robstowe/Budget-Tracker",
+        "liveLink": "https://enigmatic-sierra-82451-d19b02a0f714.herokuapp.com/"
+    },
+    {
+        "title":"PWA Text Editor ",
+        "desc": "A PWA text editor that lives within your browser",
+        "image": "pwa",
+        "repoLink": "https://github.com/robstowe/PWA_Text_editor",
+        "liveLink": "https://evening-earth-91896-4adc1232cc95.herokuapp.com/"
+    },
+    {
+        "title":"Weather Dashboard ",
+        "desc": "A Weather Dashboard that tracks current weather in desired location",
+        "image": "weather",
+        "repoLink": "https://github.com/robstowe/Weather-Dashboard",
+        "liveLink": "https://robstowe.github.io/Weather-Dashboard/"
+    },
+    {
+        "title":"Thing ",
+        "desc": "A PWA text editor that lives within your browser",
+        "image": "texteditor",
+        "repoLink": "https://github.com/robstowe/PWA_Text_editor",
+        "liveLink": "https://evening-earth-91896-4adc1232cc95.herokuapp.com/"
+    },
+    {
+        "title":"Thing ",
+        "desc": "A PWA text editor that lives within your browser",
+        "image": "texteditor",
+        "repoLink": "https://github.com/robstowe/PWA_Text_editor",
+        "liveLink": "https://evening-earth-91896-4adc1232cc95.herokuapp.com/"
+    },
+    {
+        "title":"Thing ",
         "desc": "A PWA text editor that lives within your browser",
         "image": "texteditor",
         "repoLink": "https://github.com/robstowe/PWA_Text_editor",
