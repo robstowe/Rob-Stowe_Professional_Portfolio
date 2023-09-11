@@ -11,7 +11,7 @@
         "desc": "A PWA text editor that lives within your browser",
         "image": "pwa",
         "repoLink": "https://github.com/robstowe/PWA_Text_editor",
-        "liveLink": "https://evening-earth-91896-4adc1232cc95.herokuapp.com/"
+        "liveLink": "https://immense-headland-99483-859f0d685010.herokuapp.com/"
     },
     {
         "title":"Weather Dashboard ",
@@ -39,6 +39,6 @@
         "desc": "A local note taker to help users stay on track of their tasks",
         "image": "note",
         "repoLink": "https://github.com/robstowe/Note-Taker",
-        "liveLink": "https://radiant-reef-51786-e8f4a6e9c291.herokuapp.com/"
+        "liveLink": "https://warm-ridge-53557-f37cf51f8c00.herokuapp.com/"
     }
 ]
