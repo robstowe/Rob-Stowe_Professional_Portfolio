@@ -4,7 +4,7 @@
         "desc": "An online budget tracker to help you manage your monthly expenses",
         "image": "fintrackr",
         "repoLink": "https://github.com/robstowe/Budget-Tracker",
-        "liveLink": "https://dashboard.heroku.com/apps/dry-citadel-57402"
+        "liveLink": "https://dry-citadel-57402-014123fe6f9a.herokuapp.com/"
     },
     {
         "title":"PWA Text Editor ",
